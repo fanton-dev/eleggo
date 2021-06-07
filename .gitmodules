@@ -1,0 +1,9 @@
+[submodule "ml"]
+	path = ml
+	url = https://github.com/braind3d/eleggo-ml
+[submodule "server"]
+	path = server
+	url = https://github.com/braind3d/eleggo-server
+[submodule "hardware"]
+	path = hardware
+	url = https://github.com/braind3d/eleggo-hardware
