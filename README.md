@@ -17,11 +17,9 @@
 
 ## Get started
 
-<figure width="100%" class="video_container" >
-    <video width="100%" controls allowfullscreen>
-        <source src="./docs/promotional/teaser.mp4" type="video/mp4">
-    </video>
-</figure>
+
+https://user-images.githubusercontent.com/26301867/143781633-97c246e6-2fe1-4d5f-94f9-8cc198a543af.mp4
+
 
 The project consists of 3 main components:
 - **Machine learning algorithms**, such as hand movement detection and directional thinking detection, which process EEG data for classification (located in "[eleggo-ml](https://github.com/braind3d/eleggo-ml)")
