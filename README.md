@@ -16,8 +16,14 @@
 </p>
 
 ## Get started
-The project consists of 3 main components:
 
+<figure width="100%" class="video_container" >
+    <video width="100%" controls allowfullscreen>
+        <source src="./docs/promotional/teaser.mp4" type="video/mp4">
+    </video>
+</figure>
+
+The project consists of 3 main components:
 - **Machine learning algorithms**, such as hand movement detection and directional thinking detection, which process EEG data for classification (located in "[eleggo-ml](https://github.com/braind3d/eleggo-ml)")
 - **Server & User client**, which provides an easy to program way for setting the se (located in "[eleggo-server](https://github.com/braind3d/eleggo-server)")
 - **BCI processing board**, which is using the OpenBCI Cyton board as a base and modifying it so that it only uses non-deprecated elements (located in"[eleggo-hardware](https://github.com/braind3d/eleggo-hardware)")
