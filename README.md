@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=96px src="./docs/promotional/logo.png" />
+  <img width=256px src="./docs/promotional/logo.png" />
   <h1 align="center">Eleggo</h1>
   <p align="center">
     A programmable brain computer interface, which uses a electroencephalography and machine learning to complete tasks such as hand movement recognition, directional thinking recognition, etc.
