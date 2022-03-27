@@ -1,12 +1,12 @@
 [submodule "ml"]
 	path = ml
-	url = https://github.com/braind3d/eleggo-ml
+	url = https://github.com/fanton-dev/eleggo-ml
 	branch = main
 [submodule "server"]
 	path = server
-	url = https://github.com/braind3d/eleggo-server
+	url = https://github.com/fanton-dev/eleggo-server
 	branch = main
 [submodule "hardware"]
 	path = hardware
-	url = https://github.com/braind3d/eleggo-hardware
+	url = https://github.com/fanton-dev/eleggo-hardware
 	branch = main

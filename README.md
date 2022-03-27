@@ -7,11 +7,11 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/braind3d/Eleggo/fork">
+    <a href="https://github.com/fanton-dev/Eleggo/fork">
         <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?color=FAA533&style=flat-square" alt="Contributions welcome badge" />
     </a>
     <a href="LICENSE">
-        <img src="https://img.shields.io/github/license/braind3d/eleggo?color=FAA533&style=flat-square" alt="License badge" />
+        <img src="https://img.shields.io/github/license/fanton-dev/eleggo?color=FAA533&style=flat-square" alt="License badge" />
     </a>
 </p>
 
@@ -22,9 +22,9 @@ https://user-images.githubusercontent.com/26301867/143781633-97c246e6-2fe1-4d5f-
 
 
 The project consists of 3 main components:
-- **Machine learning algorithms**, such as hand movement detection and directional thinking detection, which process EEG data for classification (located in "[eleggo-ml](https://github.com/braind3d/eleggo-ml)")
-- **Server & User client**, which provides an easy to program way for setting the se (located in "[eleggo-server](https://github.com/braind3d/eleggo-server)")
-- **BCI processing board**, which is using the OpenBCI Cyton board as a base and modifying it so that it only uses non-deprecated elements (located in"[eleggo-hardware](https://github.com/braind3d/eleggo-hardware)")
+- **Machine learning algorithms**, such as hand movement detection and directional thinking detection, which process EEG data for classification (located in "[eleggo-ml](https://github.com/fanton-dev/eleggo-ml)")
+- **Server & User client**, which provides an easy to program way for setting the se (located in "[eleggo-server](https://github.com/fanton-dev/eleggo-server)")
+- **BCI processing board**, which is using the OpenBCI Cyton board as a base and modifying it so that it only uses non-deprecated elements (located in"[eleggo-hardware](https://github.com/fanton-dev/eleggo-hardware)")
 
 For each of the components' repositories there is a corresponding `README.md` with instructions on how to get started.
 
@@ -86,7 +86,7 @@ For each of the components' repositories there is a corresponding `README.md` wi
 
 
 ## Contributions
-1. Fork it (<https://github.com/braind3d/eleggo/fork>)
+1. Fork it (<https://github.com/fanton-dev/eleggo/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -a`)
 4. Push to the branch (`git push origin feature/fooBar`)
